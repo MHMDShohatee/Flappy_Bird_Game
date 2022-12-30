@@ -1,1 +1,5 @@
-# UNITY & RPG MAKER GAME
+# UNITY Flappy Bird Game
+
+After installing all the files run the TestBird.exe
+
+
